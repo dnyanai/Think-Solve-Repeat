@@ -1,0 +1,2 @@
+# Think-Solve-Repeat
+I like problem solving and though AI can off load coding tasks now (not completely!) I still feel human brain is a complex and intriguing entity. Last time I checked I had one (lol) So, this repo is all the problems I solve/ solved here and there using whatever flavor of tech stack I use. The pattern or design is foundational = Use my brain! 
