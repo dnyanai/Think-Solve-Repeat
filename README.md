@@ -13,4 +13,7 @@ I like to write and still think creatively: my brain > AI brain.
 This isn't a cheat sheet. It's a thinking log.
 If you're here, you probably care about actually understanding things — not just memorizing answers to pass an interview. Same.
 If anything here helps you or sparks an idea, that's awesome. If you spot a mistake or have a better approach, open an issue — I'm always learning.
-Started with curiosity. Fueled by coffee and stubbornness.
+Started with curiosity. 
+
+
+Fueled by coffee and stubbornness.
